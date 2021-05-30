@@ -2,4 +2,4 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning to be a programmer, 3rd year, studying JavaScript and React
 - 💞️ I’m looking to collaborate on Web Application
-- 📫 How to reach me. | Instagram: @soma_yarik
+- 📫 How to reach me. | Telegram : t.me/@soma_yarik
